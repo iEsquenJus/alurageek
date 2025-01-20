@@ -41,18 +41,6 @@ Haz clic en el botón
   > `db.json` contiene y guarda los datos del producto guardado
   > `index` Contiene la pagina `inical` del  `proyecto`
 
-### ESTE PROYECTO FUE CREADO POR *FRANCISCO ROCHA* CON MUCHO 💙
-
-## IMAGENES DEL PROYECTO
-
-### INICIO
-
-![image](https://github.com/FrancisoRocha/AluraGeek/assets/122055396/44f1de93-db6d-474a-b528-b9abe0b8b8b2)
-
-## App
-
-![image](https://github.com/FrancisoRocha/AluraGeek/assets/122055396/af7c9581-94c3-4501-8db1-21ea33e3f4dc)
-
 
 
 
